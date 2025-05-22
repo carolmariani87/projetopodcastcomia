@@ -20,21 +20,7 @@ Temas abordados:
 
 ---
 
-## 📂 Estrutura do Repositório
 
-```bash
-📁 episodios/
-├── episodio-01.md
-├── episodio-02.md
-└── ...
-📁 roteiros/
-├── roteiro-episodio-01.md
-├── roteiro-episodio-02.md
-└── ...
-📁 artes/
-├── capa-podcast.png
-└── post-divulgacao.png
-📄 README.md
 🛠️ Como contribuir
 Faça um fork deste repositório
 
